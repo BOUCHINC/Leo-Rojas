@@ -13,12 +13,12 @@
       ],
       
       "BannerNetwork"      : "admob",
-      "InterstitialNetwork": "facebook",
+      "InterstitialNetwork": "admob",
       "NativeNetwork"      : "admob",
       
       "OpenAdNetwork"      : "admob",
       
-      "AdInterval"         : 1,
+      "AdInterval"         : 5,
       
       "NativeAdRow"        : 8,
 
