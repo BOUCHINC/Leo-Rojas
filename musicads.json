@@ -41,10 +41,22 @@
     "showClose": true,
     "adList": [
       {
+        "preview": "https://play-lh.googleusercontent.com/Hbi4g0rVdI4Ppdap_s65dF1eNbKjf-XaG-dt7lUUpExyazKSFsnwTqP0fzS317XRWP8zyLYE-gndEOHDNs8e8g=w526-h296-rw",
+        "title": "Good new ! we added new app check it ! Karol G Songs",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.sina.derakhshande.hugetech"
+      },
+      {
         "preview": "https://play-lh.googleusercontent.com/566Eogz-PS5h6QSt68p0fVBAwq8BkWQzoJ82-xj9ll7r2DoxaCE7Nt64QrJyf0sSwx-EzqkBtR4ZKWwJZYycYw=w526-h296-rw",
         "title": "Good new ! we added new app check it ! Dadju Songs",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.hamid.hiraad.bouchinc"
+      },
+      {
+        "preview": "https://play-lh.googleusercontent.com/8qX1M2bapdW3gM6JE-HXDkSYjOBMQysio2zWnNgQvHU_WGdLqFhtOTy3P-dcewcSSLORzDSEm8HcsrXI1WE41Q=w526-h296-rw",
+        "title": "Good new ! we added new app check it ! JuL Songs",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.pouya.bayati.hugetech"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/Q351mv87998l7LMvkB2szRYfEiI0tpKZVTpoIFvLNYN8aNf77XHDQ-VHhyv-DsdlRQV2wSoI_08Bg083mnffbg=w526-h296-rw",
@@ -75,10 +87,22 @@
   
   "AppsPromote": [
     {
+      "name": "Karol G - offline",
+      "packageName": "com.sina.derakhshande.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/9dWd3Q2CM8_c-1D8swlospaQjyxpu4-qJgtMSBvksYq8bcHWPFNFLZxSf5WNR7tBUFv3Tyl3LdqZaDNixQSY=w240-h480-rw",
+      "download": "+600K"
+    },
+    {
       "name": "Dadju Songs - offline",
       "packageName": "com.hamid.hiraad.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/kP99sntSNbBxoLlltWB1R78iEglxlvoGUpdc-rb_AGytPIWQdKyeXH9VGkalVxXdM0W7xP2Ej6ngqhC4rH5G=w240-h480-rw",
       "download": "+400K"
+    },
+    {
+      "name": "JuL Songs - offline",
+      "packageName": "com.pouya.bayati.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/d1YBukUU9MpnaBZXXwEu9UGb1GEbjR7T6OmyeASMkj50tt99qpQX1FA8W4ith43AmHIq1BIhPuJm9ueekWqCPA=w240-h480-rw",
+      "download": "+450K"
     },
     {
       "name": "Maitre Gims - offline",
